@@ -3,7 +3,7 @@
 
 Lista de Tarefas simples onde é possível escrever tarefas, marca-las como concluídas e também deletá-las.
 
-Visualizar site: https://brunosabbagmachado.github.io/lista-de-tarefas/
+Visualizar site: https://brunosabbagmachado.github.io/alura-lista-de-tarefas/
 
 Esta Lista de Tarefas está sendo criada com base nas aulas da Alura.
 
